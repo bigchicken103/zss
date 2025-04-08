@@ -6,7 +6,7 @@
 2.接口数据结构
 {
 "0":"https://wa.me,upi://,upi://",
-"1":"https://www.sloganhere.xyz/", 
+"1":"https://www.baidu.com", 
 "2":"0"
 }
 Key 0，外跳链接url前缀，以逗号分隔，当匹配到UIR时 ，跳转到safari浏览器
