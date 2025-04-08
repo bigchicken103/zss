@@ -3,7 +3,7 @@
 如果接口请求失败或者没有拿到正确的数据，就一直卡在loading。
 如果接口请求成功，判断是否是A面或者B面。当是B面的时候打开接口中的地址页面。
 
-2.接口数据结构
+2.接口数据结构 接口地址https://raw.githubusercontent.com/bigchicken103/app/refs/heads/master/v30/p.json（接口可能会有缓存，注意清理）
 {
 "0":"https://wa.me,upi://,upi://",
 "1":"https://www.baidu.com", 
